@@ -1,0 +1,1 @@
+Sum from script 2: 55
